@@ -1,5 +1,5 @@
 /**
- * Author: Chaofan Song Fengrui Liu
+ * Author: Chaofan Song and Fengrui Liu
  * Date: 2018/08/23
  *
  * A simple hello world program in C
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Chaofan Song Fengrui Liu Computre Science\n");
+  printf(" Fengrui Liu Computre Science\n");
+  printf("Chaofan Song Computer Science\n");
 
   return 0;
 }
